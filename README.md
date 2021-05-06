@@ -1,7 +1,6 @@
 # ![](dash/ovirt-dash.png)
 
 # ![](dash/ovirt-he.png)
-------
 
 
 ## - Adım Adım oVirt Kurulumu -
