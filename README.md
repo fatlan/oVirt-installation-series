@@ -39,3 +39,5 @@ Bölüm 9 - [RestAPI ile Ovirt Backup/Restore Operasyonu](https://www.fatlan.com
 [Windows Sanal Makinelere oVirt Guest Agent Driver Kurulumu ve Yapılandırması](https://www.fatlan.com/15-04-2019-windows-sanal-makinelere-ovirt-guest-agent-driver-kurulumu-ve-yap%C4%B1land%C4%B1rmasi/)
 
 [Ovirt RHEV ve Oracle Virtualization Manager’lar için Nested Virtualization(iç içe sanallaştırma) Yapılandırması](https://www.fatlan.com/03-10-2020-ovirt-rhev-ve-oracle-virtualization-managerlar-icin-nested-virtualization/)
+
+[oVirt Unlock Virtual Disks, VM and Snapshot](https://www.fatlan.com/18-01-2022-ovirt-unlock-virtual-disks-vm-and-snapshot/)
